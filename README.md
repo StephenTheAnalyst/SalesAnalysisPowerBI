@@ -35,3 +35,40 @@ This [dataset](https://docs.google.com/spreadsheets/d/1AYey47ARRIop65SwbPx7PgYgi
 - Created Calender Table
 - Created Measures
 
+
+![measures](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/measures.png)
+
+## Exploratory Data Analysis
+
+Here are some exploring i did with the dataset:
+
+ 1. Trend on total Sales and Profit by Quarters and months?
+ 2. Trend on how each item types were sold over the years
+ 3. Top 10 countries by sales
+ 4. How well did the store perform in the year 2017
+ 5. Which channel profits the most
+
+## Results/Findings
+
+- Click 👉[Here](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/Sales%20Project%20%20PowerBI.pdf)👈for the result to number 1-3
+  
+  ## 2017 Performance
+  ![2017](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/2017%20performance.png)
+  
+  **In this chart we can see that the total of $288.7M was made in the year 2017 as profit and the total sales was $981.7M.We can also see that Office supply was the most purchased.**
+   
+  ### Offline Performance 
+ ![offline](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/Offline%20sales.png) 
+
+ ### Online Performance 
+ ![online](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/Online%20performance.png) 
+
+**_ From the above charts, it is obvious both channels are arguably on the same level of profitablity. But we can tell from the chart countries were each channels are most used from the "top 10 countries by sales" chart._**
+
+## Conclusion
+ - Household is the overall most sold itemtype
+ -  Taiwan brought the most sales overall
+ -  Total Sales was $13.3bn
+ -  Total Profit was $3.95bn
+
+

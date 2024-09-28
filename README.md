@@ -52,7 +52,7 @@ Here are some exploring i did with the dataset:
 
 - Click 👉[Here](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/Sales%20Project%20%20PowerBI.pdf)👈for the result to number 1-3
   
-  ## 2017 Performance
+  ### 2017 Performance
   ![2017](https://github.com/StephenTheAnalyst/SalesAnalysisPowerBI/blob/main/2017%20performance.png)
   
   **In this chart we can see that the total of $288.7M was made in the year 2017 as profit and the total sales was $981.7M.We can also see that Office supply was the most purchased.**
